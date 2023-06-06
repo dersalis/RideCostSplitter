@@ -1,0 +1,7 @@
+{
+  "name": "RideCostSplitter",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
